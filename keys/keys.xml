@@ -1,29 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keys>
-  <!-- Mediatek Auth Keys -->
-  <key name="infinix_mtk_v2_key">A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6</key>
-  <key name="tecno_mtk_v3_key">F0E1D2C3B4A5968778695A4B3C2D1E0F</key>
-  <key name="itel_mtk_key">1A2B3C4D5E6F7890ABCDEF0123456789</key>
-  
-  <!-- Spreadtrum Auth Keys -->
+  <!-- Infinix/Tecno/Itel Mediatek Auth -->
+  <key name="infinix_mtk_v5_key">A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6</key>
+  <key name="infinix_mtk_v6_key">E7F8A9B0C1D2E3F4A5B6C7D8E9F0A1B2</key>
+  <key name="tecno_mtk_v5_key">F0E1D2C3B4A5968778695A4B3C2D1E0F</key>
+  <key name="tecno_mtk_v6_key">9A8B7C6D5E4F3A2B1C0D9E8F7A6B5C4D</key>
+  <key name="itel_mtk_v5_key">1A2B3C4D5E6F7890ABCDEF0123456789</key>
+  <key name="itel_mtk_v6_key">D3E4F5A6B7C8D9E0F1A2B3C4D5E6F7A8</key>
+
+  <!-- Infinix/Tecno/Itel Spreadtrum Auth -->
   <key name="infinix_sprd_key">11223344556677889900AABBCCDDEEFF</key>
   <key name="tecno_sprd_key">3344556677889900AABBCCDDEEFF0011</key>
-  
-  <!-- Xiaomi Keys -->
-  <key name="xiaomi_edl_key">E3F4A5B6C7D8E9F0A1B2C3D4E5F6A7B8</key>
-  <key name="xiaomi_frp_key">9A8B7C6D5E4F3A2B1C0D9E8F7A6B5C4D</key>
-  
-  <!-- Oppo/Realme Keys -->
+  <key name="itel_sprd_key">556677889900AABBCCDDEEFF11223344</key>
+
+  <!-- Oppo/OnePlus/Realme Secracy Decrypt -->
   <key name="oppo_secracy_key">5A5AA5A55A5AA5A55A5AA5A55A5AA5A5</key>
-  <key name="realme_mtk_key">B3B3C4C4D5D5E6E6F7F7A0A0B1B1C2C2</key>
-  
-  <!-- Vivo Keys -->
-  <key name="vivo_qualcomm_key">D4C3B2A1F0E1D2C3B4A5968778695A4B</key>
-  <key name="vivo_mtk_key">FFEEDDCCBBAA99887766554433221100</key>
-  
-  <!-- Nokia Keys -->
-  <key name="nokia_hmd_key">3C4D5E6F7890ABCDEF0123456789ABCD</key>
-  
-  <!-- Transsion Anti-Crack -->
-  <key name="transsion_anticrack">6F7890ABCDEF0123456789ABCD123456</key>
+  <key name="oneplus_secracy_key">B3B3C4C4D5D5E6E6F7F7A0A0B1B1C2C2</key>
+  <key name="realme_secracy_key">D4C3B2A1F0E1D2C3B4A5968778695A4B</key>
+
+  <!-- Oppo/OnePlus/Realme Demo Remove -->
+  <key name="oppo_demo_key">FFEEDDCCBBAA99887766554433221100</key>
+  <key name="oneplus_demo_key">3C4D5E6F7890ABCDEF0123456789ABCD</key>
+  <key name="realme_demo_key">6F7890ABCDEF0123456789ABCD123456</key>
+
+  <!-- Oppo/OnePlus Mediatek Auth -->
+  <key name="oppo_mtk_key">A0B1C2D3E4F5A6B7C8D9E0F1A2B3C4D5</key>
+  <key name="oneplus_mtk_key">E6F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1</key>
+
+  <!-- Realme Mediatek Auth -->
+  <key name="realme_mtk_key">C2D3E4F5A6B7C8D9E0F1A2B3C4D5E6F7</key>
+
+  <!-- Nokia Fastboot HMD Auth -->
+  <key name="nokia_hmd_key">B1C2D3E4F5A6B7C8D9E0F1A2B3C4D5E6</key>
+
+  <!-- Vivo Qualcomm/Mediatek Auth -->
+  <key name="vivo_qualcomm_key">F7A8B9C0D1E2F3A4B5C6D7E8F9A0B1C2</key>
+  <key name="vivo_mtk_key">D3E4F5A6B7C8D9E0F1A2B3C4D5E6F7A8</key>
+
+  <!-- Xiaomi EDL/BROM Auth -->
+  <key name="xiaomi_edl_key">A4B5C6D7E8F9A0B1C2D3E4F5A6B7C8D9</key>
+  <key name="xiaomi_brom_key">E0F1A2B3C4D5E6F7A8B9C0D1E2F3A4B5</key>
+
+  <!-- Xiaomi Fastboot to EDL Auth -->
+  <key name="xiaomi_fastboot_edl">C6D7E8F9A0B1C2D3E4F5A6B7C8D9E0F1</key>
+
+  <!-- Xiaomi Mi Assistant FRP Auth -->
+  <key name="xiaomi_frp_key">A2B3C4D5E6F7A8B9C0D1E2F3A4B5C6D7</key>
+
+  <!-- Transsion Anti Crack Fix Auth -->
+  <key name="transsion_anticrack">8B9C0D1E2F3A4B5C6D7E8F9A0B1C2D3</key>
 </keys>
