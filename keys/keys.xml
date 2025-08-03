@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keys>
+  <!-- Mediatek Auth Keys -->
+  <key name="infinix_mtk_v2_key">A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6</key>
+  <key name="tecno_mtk_v3_key">F0E1D2C3B4A5968778695A4B3C2D1E0F</key>
+  <key name="itel_mtk_key">1A2B3C4D5E6F7890ABCDEF0123456789</key>
+  
+  <!-- Spreadtrum Auth Keys -->
+  <key name="infinix_sprd_key">11223344556677889900AABBCCDDEEFF</key>
+  <key name="tecno_sprd_key">3344556677889900AABBCCDDEEFF0011</key>
+  
+  <!-- Xiaomi Keys -->
+  <key name="xiaomi_edl_key">E3F4A5B6C7D8E9F0A1B2C3D4E5F6A7B8</key>
+  <key name="xiaomi_frp_key">9A8B7C6D5E4F3A2B1C0D9E8F7A6B5C4D</key>
+  
+  <!-- Oppo/Realme Keys -->
+  <key name="oppo_secracy_key">5A5AA5A55A5AA5A55A5AA5A55A5AA5A5</key>
+  <key name="realme_mtk_key">B3B3C4C4D5D5E6E6F7F7A0A0B1B1C2C2</key>
+  
+  <!-- Vivo Keys -->
+  <key name="vivo_qualcomm_key">D4C3B2A1F0E1D2C3B4A5968778695A4B</key>
+  <key name="vivo_mtk_key">FFEEDDCCBBAA99887766554433221100</key>
+  
+  <!-- Nokia Keys -->
+  <key name="nokia_hmd_key">3C4D5E6F7890ABCDEF0123456789ABCD</key>
+  
+  <!-- Transsion Anti-Crack -->
+  <key name="transsion_anticrack">6F7890ABCDEF0123456789ABCD123456</key>
+</keys>
